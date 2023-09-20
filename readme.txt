@@ -13,5 +13,10 @@
           git push -u origin main
 	  用户名为gitup用户名
 	  密码为：token值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（30天有效）
+用法一：
+ 克隆GitHub项目到本地：
+   本地创建一个文件夹存放GitHub项目：git init
+   使用git clone克隆项目：
+          git clone https://github.com/zyt01729/study01.git
 
    
